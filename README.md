@@ -11,19 +11,19 @@ SystemMonitor simulates a basic SIEM-like functionality by:
 - Printing real-time alerts with timestamps when a match with suspicious pattern is detected
 ---
 
-Steps to run the code:
+## Steps to run the code:
 1. Clone the repo using: git clone https://github.com/pratishma09/basic-log-parsing-system.git
 2. cd basic-log-parsing-system
 3. Run python system.py logfile.log
 
-Assumptions:
+## Assumptions:
 1. Uses the patterns: “failed login”, “unauthorized access”, “malicious activity detected”.
 2. Logs are plain text files, .txt or .log with timestamps.
 
-Limitations:
+## Limitations:
 1. Does not parse structured log formats
 2. Does not persist or store alerts
 
-References:
+## References:
 1. Sample log file: https://zenduty.com/blog/log-file/
 2. https://signoz.io/guides/log-parsing/
