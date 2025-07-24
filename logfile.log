@@ -1,0 +1,6 @@
+2024-07-23 15:43:21 INFO User login successful - UserID: 7890, SessionID: abc123
+2024-11-19 08:00:15 - Failed login attempt: user1, IP: 192.168.1.10
+2024-11-19 08:05:47 - Successful login: user2, IP: 192.168.1.12
+2024-11-19 08:10:30 - Unauthorized access attempt: user1, IP: 192.168.1.20
+2024-11-19 08:15:02 - User1 password changed.
+Unauthorized access attempt: user1, IP: 192.168.1.20
